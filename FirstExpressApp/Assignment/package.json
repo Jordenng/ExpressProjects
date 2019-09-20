@@ -1,0 +1,21 @@
+{
+  "name": "assigment",
+  "version": "1.0.0",
+  "description": "trial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jordenng"
+  },
+  "keywords": [
+    "trial"
+  ],
+  "author": "jordenng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
